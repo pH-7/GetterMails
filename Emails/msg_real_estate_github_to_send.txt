@@ -1,0 +1,9 @@
+Hi [name]<br />
+I found your profile on Github, in the watch list of a Real Estate Software.<br />
+I've developed a PHP software solution for creating a real estate website and I think it may be useful for you.<br />
+It can be findable at <a href="http://idzup.com/real-estate-business/">here</a>.<br />
+Please let me know if you have any questions.
+<br /><br />
+Thanks a lot in advance[end_name]!<br />
+Have a great [day]!<br />
+Peter

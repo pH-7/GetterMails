@@ -1,0 +1,17 @@
+25
+MYEMAIL@gmail.com
+MY_PWD
+BUYER_EMAIL@gmail.com
+BUYER APP_NAME
+https://itunes.apple.com/us/app/angel-rescue-team-bubble-shooter/id1018863741?ls=1&mt=8
+N
+0
+
+// number of emails
+// from address
+// from address password
+// customer address
+// app name
+// app URL
+// Android app? Y = Android, N = iPhone
+// starting email # (0 is beginning)
