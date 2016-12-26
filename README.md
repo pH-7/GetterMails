@@ -1,6 +1,8 @@
 # GetterMails
 
-GetterMails, Scrapper. Get emails easily from some websites. Personal Project.
+GetterMails, Scrapper. Get emails easily from websites and add posts/messages. Personal Project.
+
+It's a good start if you want to learn how to build a Web scraper/bot with PHP/Python.
 
 
 ## Disclamer
