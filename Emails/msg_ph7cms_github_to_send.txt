@@ -1,12 +1,9 @@
 Hi [name]<br />
-I just saw your profile on Github, and as it looks quite nice, I'm wondering if you can help me...<br />
-Indeed, I'm developing alone a software Social/Dating Builder (called pH7CMS) and findable on Github at <a href="https://github.com/pH7Software/pH7-Social-Dating-CMS">https://github.com/pH7Software/pH7-Social-Dating-CMS</a><br /> 
-So, I'm looking for reviews from you and/or even contributions.<br /> 
-Can you have a look and please let me know what you think.<br />
+I just saw your profile on Github, and since it looks quite nice, I'm wondering if you can help me...<br />
+Indeed, I'm developing alone a social/dating CMS (called pH7CMS) and findable at <a href="https://github.com/pH7Software/pH7-Social-Dating-CMS">https://github.com/pH7Software/pH7-Social-Dating-CMS</a>.<br />
+I'm looking for feedback (and maybe even contribution) and let me know what you think.<br /><br />
 
 Thanks a lot in advance[end_name]!<br />
-Have a great Wednesday<br /><br />
-
 
 Have a great [day]!<br />
 Pierre

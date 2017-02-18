@@ -29,7 +29,7 @@ while(url_exists($sTargetUrl . $iNum))
     {
        $oHtml->load_file('https://github.com' . $oProfile->href);
 
-       if ($oHtml->find('a[class=email]',0) && trim(explode('@', $oHtml->find('a[class=email]',0)->innertext)[1])
+       if ($oHtml->find('a[class=email]',0) && trim(explode('@', $oHtml->find('a[class=email]', 0)->innertext)[1])
            != 'buddyexpress.net' && trim($oHtml->find('a[class=email]',0)->innertext) != 'me@koen.pt')
        {
            if($oName = $oHtml->find('title', 0)) {
