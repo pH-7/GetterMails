@@ -7,7 +7,9 @@ It's a good start if you want to learn how to build a Web scraper/bot with PHP/P
 
 ## Disclamer
 
-You CANNOT use it against any TOS of available online services or others. This script is just here as a study example to show how doing a scrapper but YOU are fully responsible of the usage of it and CANNOT use it ilegally or spamming users. The script and myself cannot be in any case responsible of the usage you make with it.
+You CANNOT use it against any laws, TOS of available online services or others.
+
+This script is just here as a study example to show how doing a scrapper, but YOU are fully responsible of the usage of it and YOU CANNOT use it illegally or for spamming users. The script and myself cannot be in any case responsible of the usage you make with it.
 
 
 ## Author
