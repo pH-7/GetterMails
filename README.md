@@ -5,7 +5,7 @@ GetterMails, Scrapper. Get emails easily from websites and add posts/messages. P
 It's a good start if you want to learn how to build a Web scraper/bot with PHP/Python.
 
 
-## Disclamer
+## Disclaimer
 
 You CANNOT use it against any laws, TOS of available online services or others.
 
